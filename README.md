@@ -1,6 +1,5 @@
 # Penetration-Tester-Interview-Q-A
 
-# Interview Q&A
 
 # **Cryptography**
 
